@@ -8,12 +8,14 @@
     <title>Tamagotchiville</title>
   </head>
   <body>
+    <audio src="./inc/assets/sons/South-Park.mp3" controls loop></audio>
     <main>
       <article>
         <h1 class="header_title">Tamagotchiville:</h1>
         <h2 class="header_title">South Park Edition</h2>
 
         <div class="hero_wrapper">
+          
           <div id="hidden_class1" class="home_text display">
             <div class="fake_bg"></div>
             <h2 class="hero_title">Choisi ton personnage !</h2>
@@ -43,31 +45,56 @@
                 Commencer
               </button>
             </div> -->
-          </div>
+          
         </div>
-        <div id="hidden_class2" class="answer_container hidden">
+        <div id="display_none" class="hidden">
+        <div id="hidden_class2" class="answer_container">
           <div class="left_column"></div>
+          <div class="fake_bg2"></div>
           <div class="right_column">
-            <p class="right_text">
-              Tamagotchi + South Park = Tamagotchi Park : le jeu où vous devez
-              élever des créatures déjantées dans un monde encore plus déjanté !
-              Prenez soin d'eux tout en évitant les pièges de Cartman et ses
-              acolytes. Êtes-vous prêt à relever le défi ? Alors lancez-vous
-              dans cette aventure folle et hilarante !
-            </p>
-            <div class="first_capacity"></div>
-            <progress id="health_bar" value="50" max="100"></progress>
-            <button id="increase_health_button">
-              Augmenter les points de vie
-            </button>
-
-            <div class="second_capacity"></div>
-            <div class="third_capacity"></div>
+            <div class="fake_bg3"></div>
+            <p class="right_text"></p>
+            <div class="companion">
+              <h3>Compagnon</h3>
+              <div class="health">
+                <p>Points de vie:</p>
+                <progress id="health_bar" value="100" max="100"></progress>
+                <button id="heal_button">
+                  <img src="./inc/assets/images/heart_half_fill.svg" alt="logo coeur">
+                </button>
+              </div>
+              <div class="hunger">
+                <p>Faim:</p>
+                <progress id="hunger_bar" value="100" max="100"></progress>
+                <button id="feed_button">
+                  <img src="./inc/assets/images/cookie_line.svg" alt="logo faim">
+                </button>
+              </div>
+              <div class="thirst">
+                <p>Soif:</p>
+                <progress id="thirst_bar" value="100" max="100"></progress>
+                <button id="water_button">
+                  <img src="./inc/assets/images/drink_line.svg" alt="logo soif">
+                </button>
+              </div>
+            </div>
+            
           </div>
         </div>
         </div>
+        </div>
+      </div>
       </article>
     </main>
     <script src="./inc/Ts/script.ts" type="module"></script>
   </body>
 </html>
+
+
+
+
+<!-- Tamagotchi + South Park = Tamagotchi Park : le jeu où vous devez
+élever des créatures déjantées dans un monde encore plus déjanté !
+Prenez soin d'eux tout en évitant les pièges de Cartman et ses
+acolytes. Êtes-vous prêt à relever le défi ? Alors lancez-vous
+dans cette aventure folle et hilarante ! -->
