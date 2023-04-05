@@ -10,6 +10,8 @@
 
 
 
+
+
 .header_title{
     font-size: 50px;
     text-align: center;
@@ -47,6 +49,82 @@ color: rgb(8, 0, 255);
 
 }
 
+#first_button {
+  background-color: #008CBA;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 20px;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-radius: 40px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+}
+
+#first_button:hover {
+  background-color: #FFFFFF;
+  color: #008CBA;
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+
+#second_button {
+  background-color: #008CBA;
+  cursor: pointer;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 20px;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-radius: 40px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+}
+
+#second_button:hover {
+  background-color: #FFFFFF;
+  color: #008CBA;
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+#third_button {
+  background-color: #008CBA;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 20px;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-radius: 40px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+
+}
+
+#third_button:hover {
+  background-color: #FFFFFF;
+  color: #008CBA;
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+
+
 
 .fake_bg{
     position: absolute;
@@ -79,6 +157,8 @@ color: rgb(8, 0, 255);
     }
     .personnage{
       height: 150px;
+
+     
     }
 
     .perso_1{
@@ -162,6 +242,33 @@ color: rgb(8, 0, 255);
         box-sizing: border-box;
         width: 35vw;
         height: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: jump-and-shake 0.5s ease-in-out infinite;
+        
+        @keyframes jump-and-shake {
+          0% {
+            transform: translateY(0);
+          }
+          25% {
+            transform: translateY(-10px);
+          }
+          50% {
+            transform: translateY(0);
+          }
+          75% {
+            transform: translateY(-5px) rotate(5deg);
+          }
+          100% {
+            transform: translateY(0);
+          }
+        }
+
+        .left_column>img{
+          width: 50%;
+        }
+
     }
     .fake_bg2{
       position: absolute;
@@ -189,6 +296,7 @@ color: rgb(8, 0, 255);
             font-size: 30px;
             font-weight: 600;
             margin-left: 30px;
+            width: 80%;
             margin-top: 10px;
             margin-right: 30px;
         }

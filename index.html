@@ -8,8 +8,8 @@
     <title>Tamagotchiville</title>
   </head>
   <body>
-    <audio src="./inc/assets/sons/South-Park.mp3" controls loop></audio>
-    <main>
+    <!-- <audio id="myAudio" src="./inc/assets/sons/South-Park.mp3" loop></audio>    -->
+     <main>
       <article>
         <h1 class="header_title">Tamagotchiville:</h1>
         <h2 class="header_title">South Park Edition</h2>
@@ -55,23 +55,19 @@
             <div class="fake_bg3"></div>
             <p class="right_text"></p>
             <div class="companion">
-              <h3>Compagnon</h3>
               <div class="health">
-                <p>Points de vie:</p>
                 <progress id="health_bar" value="100" max="100"></progress>
                 <button id="heal_button">
                   <img src="./inc/assets/images/heart_half_fill.svg" alt="logo coeur">
                 </button>
               </div>
               <div class="hunger">
-                <p>Faim:</p>
                 <progress id="hunger_bar" value="100" max="100"></progress>
                 <button id="feed_button">
                   <img src="./inc/assets/images/cookie_line.svg" alt="logo faim">
                 </button>
               </div>
               <div class="thirst">
-                <p>Soif:</p>
                 <progress id="thirst_bar" value="100" max="100"></progress>
                 <button id="water_button">
                   <img src="./inc/assets/images/drink_line.svg" alt="logo soif">
