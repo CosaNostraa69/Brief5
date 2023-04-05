@@ -14,36 +14,38 @@
         <h2 class="header_title">South Park Edition</h2>
 
         <div class="hero_wrapper">
-          <div class="fake_bg"></div>
-          <h2 class="hero_title">Choisi ton personnage !</h2>
-          <div class="cards_wrapper">
-            <div class="red">
-              <img
-                class="cards"
-                src="./inc/assets/images/download-removebg-preview (1).png"
-                alt=""
-              />
+          <div id="hidden_class1" class="home_text display">
+            <div class="fake_bg"></div>
+            <h2 class="hero_title">Choisi ton personnage !</h2>
+
+            <!-- Bouton pour nickname -->
+            <div class="name_button">
+            <label for="name_input">Donne un nom à ton personnage:</label>
+            <input type="text" id="name_input" /></div>
+
+            <div id="choix_perso" class="cards_wrapper">
+              <div class="perso_1">
+                <img class="personnage" src="./inc/assets/images/Eric-cartman1-removebg-preview.png" alt="Eric Cartman" >
+                <button id="first_button">Choisir</button>
+              </div>
+              <div class="perso_2">
+                <img class="personnage" src="./inc/assets/images/butters1-removebg-preview.png" alt="Eric Cartman" >
+                <button id="second_button">Choisir</button>
+              </div>
+              <div class="perso_3">
+                <img class="personnage" src="./inc/assets/images/kenny-removebg-preview.png" alt="Eric Cartman" >
+                <button id="third_button">Choisir</button>
+              </div>
             </div>
-            <div class="blue">
-              <img
-                class="cards"
-                src="./inc/assets/images/butters1-removebg-preview.png"
-                alt=""
-              />
-            </div>
-            <div class="green">
-              <img
-                class="cards"
-                src="./inc/assets/images/kenny-removebg-preview.png"
-                alt=""
-              />
-            </div>
-          </div>
-          <div class="button_wrapper">
-            <button class="favorite styled" type="button">Commencer</button>
+         
+            <!-- <div class="button_wrapper">
+              <button class="hero_button favorite styled" type="button" id="button_1">
+                Commencer
+              </button>
+            </div> -->
           </div>
         </div>
-        <div class="answer_container">
+        <div id="hidden_class2" class="answer_container hidden">
           <div class="left_column"></div>
           <div class="right_column">
             <p class="right_text">
@@ -55,12 +57,14 @@
             </p>
             <div class="first_capacity"></div>
             <progress id="health_bar" value="50" max="100"></progress>
-<button id="increase_health_button">Augmenter les points de vie</button>
-
+            <button id="increase_health_button">
+              Augmenter les points de vie
+            </button>
 
             <div class="second_capacity"></div>
             <div class="third_capacity"></div>
           </div>
+        </div>
         </div>
       </article>
     </main>
