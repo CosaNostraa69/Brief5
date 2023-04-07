@@ -1,13 +1,14 @@
-4522
-56/home/cosanostraa/Dev/Brief5/dist/index.0e23396f.css.map1680704215045174526 0
+4521
+56/home/cosanostraa/Dev/Brief5/dist/index.0e23396f.css.map1680873171934528375 0
 57/home/cosanostraa/Dev/Brief5/dist/cartmancry.b19543e5.png1680692925594605852 0
-94/home/cosanostraa/Dev/Brief5/dist/desktop-wallpaper-southpark-bus-stop-south-park.d8154d20.jpg1680704214989174697 0
-76/home/cosanostraa/Dev/Brief5/dist/download-removebg-preview (1).4f70337e.png1680704214993174685 0
-44/home/cosanostraa/Dev/Brief5/dist/index.html1680704214989174697 0
-52/home/cosanostraa/Dev/Brief5/dist/index.0e23396f.css1680704214989174697 0
-57/home/cosanostraa/Dev/Brief5/dist/drink_line.cc782ba1.svg1680704214989174697 0
-56/home/cosanostraa/Dev/Brief5/dist/kennydead.f9b0ede2.png1680704215021174599 0
-62/home/cosanostraa/Dev/Brief5/dist/heart_half_fill.7ffa9960.svg1680704214989174697 0
+94/home/cosanostraa/Dev/Brief5/dist/desktop-wallpaper-southpark-bus-stop-south-park.d8154d20.jpg1680873171930528386 0
+76/home/cosanostraa/Dev/Brief5/dist/download-removebg-preview (1).4f70337e.png1680873171930528386 0
+44/home/cosanostraa/Dev/Brief5/dist/index.html1680873171870528542 0
+52/home/cosanostraa/Dev/Brief5/dist/index.0e23396f.css1680873171918528417 0
+57/home/cosanostraa/Dev/Brief5/dist/drink_line.cc782ba1.svg1680873171970528282 0
+96/home/cosanostraa/Dev/Brief5/dist/south-park-fr---je-vous-emmerde---cartman-By-Tuna.bb993f35.mp31680872918551227180 0
+56/home/cosanostraa/Dev/Brief5/dist/kennydead.f9b0ede2.png1680873171934528375 0
+62/home/cosanostraa/Dev/Brief5/dist/heart_half_fill.7ffa9960.svg1680873171970528282 0
 37/home/cosanostraa/Dev/Brief5/inc/SCSS1680179328425472283 1
 60/home/cosanostraa/Dev/Brief5/inc/assets/images/fast-food.png1679922920361141905 0
 73/home/cosanostraa/Dev/Brief5/inc/assets/images/kenny-removebg-preview.png1680179328429472246 0
@@ -17,19 +18,15 @@
 81/home/cosanostraa/Dev/Brief5/inc/assets/images/Eric-cartman1-removebg-preview.png1680179328429472246 0
 60/home/cosanostraa/Dev/Brief5/inc/assets/images/kennydead.png1680644245354569707 0
 76/home/cosanostraa/Dev/Brief5/inc/assets/images/butters1-removebg-preview.png1680179328429472246 0
-44/home/cosanostraa/Dev/Brief5/inc/Ts/Kenny.ts1680648835672314178 0
-46/home/cosanostraa/Dev/Brief5/inc/Ts/Cartman.ts1680648776672583597 0
-46/home/cosanostraa/Dev/Brief5/inc/Ts/Butters.ts1680648840528292500 0
-49/home/cosanostraa/Dev/Brief5/inc/Ts/Characters.ts1680702934658111415 0
-35/home/cosanostraa/Dev/Brief5/inc/Ts1680648715928873582 1
-41/home/cosanostraa/Dev/Brief5/package.json1680533438535489959 0
+35/home/cosanostraa/Dev/Brief5/inc/Ts1680789873838736700 1
+41/home/cosanostraa/Dev/Brief5/package.json1680704480844260309 0
 62/home/cosanostraa/Dev/Brief5/node_modules/color-name/README.md1680533423447511004 0
 65/home/cosanostraa/Dev/Brief5/node_modules/color-name/package.json1680533423303511203 0
 65/home/cosanostraa/Dev/Brief5/node_modules/picocolors/package.json1680533423427511032 0
 52/home/cosanostraa/Dev/Brief5/node_modules/picocolors1680533423539510876 1
 59/home/cosanostraa/Dev/Brief5/node_modules/@trysound/sax/lib1680533423339511154 1
 68/home/cosanostraa/Dev/Brief5/node_modules/@trysound/sax/package.json1680533423559510849 0
-39/home/cosanostraa/Dev/Brief5/index.html1680703851577834770 0
+39/home/cosanostraa/Dev/Brief5/index.html1680873082770764366 0
 51/home/cosanostraa/Dev/Brief5/node_modules/@trysound1680533420391515234 1
 72/home/cosanostraa/Dev/Brief5/node_modules/@swc/helpers/lib/_ts_values.js1680533424427509646 0
 98/home/cosanostraa/Dev/Brief5/node_modules/@swc/helpers/lib/_class_static_private_field_spec_set.js1680533424155510023 0
@@ -335,7 +332,7 @@
 88/home/cosanostraa/Dev/Brief5/node_modules/@swc/helpers/src/_class_private_method_get.mjs1680533424579509435 0
 72/home/cosanostraa/Dev/Brief5/node_modules/@parcel/workers/src/backend.js1680533423519510904 0
 73/home/cosanostraa/Dev/Brief5/node_modules/@parcel/workers/src/cpuCount.js1680533423919510349 0
-45/home/cosanostraa/Dev/Brief5/inc/Ts/script.ts1680704215089174391 0
+45/home/cosanostraa/Dev/Brief5/inc/Ts/script.ts1680872974475064923 0
 75/home/cosanostraa/Dev/Brief5/node_modules/@parcel/workers/src/childState.js1680533423815510494 0
 70/home/cosanostraa/Dev/Brief5/node_modules/@parcel/workers/package.json1680533424327509784 0
 57/home/cosanostraa/Dev/Brief5/node_modules/@parcel/workers1680533424327509784 1
@@ -344,7 +341,6 @@
 89/home/cosanostraa/Dev/Brief5/node_modules/@parcel/transformer-json/src/JSONTransformer.js1680533423523510899 0
 79/home/cosanostraa/Dev/Brief5/node_modules/@parcel/transformer-json/package.json1680533423559510849 0
 89/home/cosanostraa/Dev/Brief5/node_modules/@parcel/optimizer-terser/lib/TerserOptimizer.js1680533423403511066 0
-59/home/cosanostraa/Dev/Brief5/inc/assets/images/insulter.png1679922552596647642 0
 70/home/cosanostraa/Dev/Brief5/node_modules/@parcel/optimizer-terser/lib1680533423347511143 1
 89/home/cosanostraa/Dev/Brief5/node_modules/@parcel/optimizer-terser/src/TerserOptimizer.js1680533423523510899 0
 74/home/cosanostraa/Dev/Brief5/node_modules/@parcel/optimizer-terser/LICENSE1680533423303511203 0
@@ -390,7 +386,7 @@
 129/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/a/index.js1680533424527509507 0
 129/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/b/index.js1680533424555509467 0
 153/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/.pnpm/source-pnpm@1.0.0/node_modules/source-pnpm/source.js1680533424887509007 0
-58/home/cosanostraa/Dev/Brief5/dist/buttersDead.a41aa1ee.png1680704215021174599 0
+58/home/cosanostraa/Dev/Brief5/dist/buttersDead.a41aa1ee.png1680873171934528375 0
 156/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/.pnpm/source-pnpm@1.0.0/node_modules/source-pnpm/package.json1680533424935508941 0
 143/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/.pnpm/source-pnpm@1.0.0/node_modules/source-pnpm1680533424935508941 1
 125/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias-glob/src/test.js1680533424907508980 0
@@ -409,6 +405,7 @@
 105/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg1680533424935508941 1
 130/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main-directory/package.json1680533424967508896 0
 117/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main-directory1680533424963508902 1
+69/home/cosanostraa/Dev/Brief5/inc/assets/images/middle_finger_line.svg1680868543709381861 0
 120/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main/package.json1680533424967508896 0
 115/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main/main.js1680533424775509163 0
 124/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias-exclude/main.js1680533424727509229 0
@@ -427,7 +424,7 @@
 81/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/package.json1680533424931508946 0
 64/home/cosanostraa/Dev/Brief5/node_modules/is-binary-path/license1680533423435511021 0
 68/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core1680533424927508952 1
-57/home/cosanostraa/Dev/Brief5/dist/South-Park.57999370.mp31680703415364162928 0
+57/home/cosanostraa/Dev/Brief5/dist/South-Park.57999370.mp31680873171946528344 0
 83/home/cosanostraa/Dev/Brief5/node_modules/@parcel/packager-html/lib/HTMLPackager.js1680533423403511066 0
 75/home/cosanostraa/Dev/Brief5/node_modules/@parcel/workers/src/WorkerFarm.js1680533424311509806 0
 67/home/cosanostraa/Dev/Brief5/node_modules/@parcel/packager-html/lib1680533423347511143 1
@@ -596,7 +593,7 @@
 68/home/cosanostraa/Dev/Brief5/node_modules/@parcel/cache/src/index.js1680533423819510488 0
 88/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/test/fixture/foo.js1680533424351509750 0
 68/home/cosanostraa/Dev/Brief5/node_modules/@parcel/cache/src/types.js1680533423891510389 0
-77/home/cosanostraa/Dev/Brief5/dist/Eric-cartman1-removebg-preview.eef89f67.png1680704215045174526 0
+77/home/cosanostraa/Dev/Brief5/dist/Eric-cartman1-removebg-preview.eef89f67.png1680873171938528365 0
 71/home/cosanostraa/Dev/Brief5/node_modules/@parcel/cache/src/IDBCache.js1680533423771510555 0
 79/home/cosanostraa/Dev/Brief5/node_modules/@parcel/cache/src/IDBCache.browser.js1680533423663510705 0
 63/home/cosanostraa/Dev/Brief5/node_modules/@parcel/cache/LICENSE1680533423303511203 0
@@ -845,6 +842,7 @@
 84/home/cosanostraa/Dev/Brief5/node_modules/@parcel/core/lib/requests/DevDepRequest.js1680533424535509495 0
 88/home/cosanostraa/Dev/Brief5/node_modules/@parcel/core/lib/requests/ValidationRequest.js1680533425019508824 0
 67/home/cosanostraa/Dev/Brief5/node_modules/@parcel/core/lib/requests1680533425043508790 1
+65/home/cosanostraa/Dev/Brief5/dist/middle_finger_line.0d68fef7.svg1680873171970528282 0
 72/home/cosanostraa/Dev/Brief5/node_modules/@parcel/core/lib/buildCache.js1680533424367509729 0
 76/home/cosanostraa/Dev/Brief5/node_modules/@parcel/core/lib/ReporterRunner.js1680533424883509013 0
 72/home/cosanostraa/Dev/Brief5/node_modules/@parcel/core/lib/AssetGraph.js1680533424271509861 0
@@ -1719,7 +1717,7 @@
 52/home/cosanostraa/Dev/Brief5/node_modules/.bin/json51680533426331507002 0
 81/home/cosanostraa/Dev/Brief5/node_modules/@parcel/runtime-js/src/helpers/.babelrc1680533423399511070 0
 68/home/cosanostraa/Dev/Brief5/node_modules/nth-check/lib/esm/parse.js1680533423639510738 0
-69/home/cosanostraa/Dev/Brief5/dist/kenny-removebg-preview.4654637b.png1680704215021174599 0
+69/home/cosanostraa/Dev/Brief5/dist/kenny-removebg-preview.4654637b.png1680873171934528375 0
 62/home/cosanostraa/Dev/Brief5/node_modules/csso/lib/compress.js1680533424163510012 0
 90/home/cosanostraa/Dev/Brief5/node_modules/@babel/highlight/node_modules/chalk/templates.js1680533423667510699 0
 63/home/cosanostraa/Dev/Brief5/node_modules/chalk/source/index.js1680533423391511081 0
@@ -2069,7 +2067,7 @@
 78/home/cosanostraa/Dev/Brief5/node_modules/@swc/helpers/lib/_sliced_to_array.js1680533424375509718 0
 59/home/cosanostraa/Dev/Brief5/node_modules/parcel/lib/bin.js1680533423359511126 0
 91/home/cosanostraa/Dev/Brief5/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest6.c1680533424715509246 0
-58/home/cosanostraa/Dev/Brief5/dist/cartmandead.680f2703.png1680704214993174685 0
+58/home/cosanostraa/Dev/Brief5/dist/cartmandead.680f2703.png1680873171934528375 0
 84/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/svg-fragment.js1680533425371508336 0
 65/home/cosanostraa/Dev/Brief5/node_modules/is-arrayish/.travis.yml1680533423647510727 0
 48/home/cosanostraa/Dev/Brief5/node_modules/semver1680533423683510677 1
@@ -2216,7 +2214,7 @@
 59/home/cosanostraa/Dev/Brief5/node_modules/react-refresh/cjs1680533423783510539 1
 99/home/cosanostraa/Dev/Brief5/node_modules/dom-serializer/node_modules/entities/lib/maps/decode.json1680533423735510605 0
 79/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/css-all.js1680533424727509229 0
-28/home/cosanostraa/Dev/Brief51680644762117042767 1
+28/home/cosanostraa/Dev/Brief51680704285048951824 1
 102/home/cosanostraa/Dev/Brief5/node_modules/posthtml/node_modules/posthtml-parser/dist/chunk.2UQLUWPH.js1680533423407511060 0
 77/home/cosanostraa/Dev/Brief5/node_modules/@swc/helpers/lib/_async_iterator.js1680533423727510616 0
 94/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/viewport-unit-variants.js1680533425411508280 0
@@ -2503,7 +2501,7 @@
 64/home/cosanostraa/Dev/Brief5/node_modules/@parcel/types/index.js1680533423567510838 0
 74/home/cosanostraa/Dev/Brief5/node_modules/abortcontroller-polyfill/LICENSE1680533423303511203 0
 73/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/regions/QA.js1680533425319508408 0
-48/home/cosanostraa/Dev/Brief5/inc/SCSS/style.scss1680703415096164821 0
+48/home/cosanostraa/Dev/Brief5/inc/SCSS/style.scss1680873171750528853 0
 81/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/css-fixed.js1680533424851509057 0
 64/home/cosanostraa/Dev/Brief5/node_modules/is-arrayish/.npmignore1680533423323511176 0
 61/home/cosanostraa/Dev/Brief5/node_modules/buffer-from/LICENSE1680533423303511203 0
@@ -2881,7 +2879,7 @@
 65/home/cosanostraa/Dev/Brief5/node_modules/supports-color/index.js1680533423363511120 0
 57/home/cosanostraa/Dev/Brief5/node_modules/srcset/index.js1680533423303511203 0
 83/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/mediasource.js1680533425251508502 0
-39/home/cosanostraa/Dev/Brief5/.gitignore1679917735696262135 0
+39/home/cosanostraa/Dev/Brief5/.gitignore1680704285044951837 0
 85/home/cosanostraa/Dev/Brief5/node_modules/electron-to-chromium/chromium-versions.json1680533423811510500 0
 78/home/cosanostraa/Dev/Brief5/node_modules/@parcel/utils/test/sourcemap.test.js1680533424671509307 0
 86/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/css-namespaces.js1680533424935508941 0
@@ -3009,7 +3007,7 @@
 63/home/cosanostraa/Dev/Brief5/node_modules/is-arrayish/README.md1680533423383511092 0
 81/home/cosanostraa/Dev/Brief5/node_modules/@parcel/packager-raw/src/RawPackager.js1680533423523510899 0
 69/home/cosanostraa/Dev/Brief5/node_modules/type-fest/source/basic.d.ts1680533423707510644 0
-72/home/cosanostraa/Dev/Brief5/dist/butters1-removebg-preview.1256fae6.png1680704214997174673 0
+72/home/cosanostraa/Dev/Brief5/dist/butters1-removebg-preview.1256fae6.png1680873171934528375 0
 68/home/cosanostraa/Dev/Brief5/node_modules/msgpackr-extract/README.md1680533423687510672 0
 87/home/cosanostraa/Dev/Brief5/node_modules/@parcel/watcher/src/windows/WindowsBackend.hh1680533424247509895 0
 52/home/cosanostraa/Dev/Brief5/node_modules/yaml/types1680533424347509757 1
@@ -3143,7 +3141,7 @@
 85/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/server-timing.js1680533425351508363 0
 72/home/cosanostraa/Dev/Brief5/node_modules/@parcel/utils/src/ansi-html.js1680533423731510611 0
 89/home/cosanostraa/Dev/Brief5/node_modules/entities/lib/generated/decode-data-xml.d.ts.map1680533424063510151 0
-58/home/cosanostraa/Dev/Brief5/dist/cookie_line.b9080b01.svg1680704214989174697 0
+58/home/cosanostraa/Dev/Brief5/dist/cookie_line.b9080b01.svg1680873171966528293 0
 61/home/cosanostraa/Dev/Brief5/node_modules/has-flag/index.d.ts1680533423323511176 0
 73/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/regions/MY.js1680533425267508480 0
 86/home/cosanostraa/Dev/Brief5/node_modules/css-select/lib/pseudo-selectors/filters.d.ts1680533424231509917 0
@@ -3266,6 +3264,7 @@
 68/home/cosanostraa/Dev/Brief5/node_modules/css-what/lib/es/types.d.ts1680533424183509984 0
 70/home/cosanostraa/Dev/Brief5/node_modules/css-what/lib/es/stringify.js1680533423883510400 0
 72/home/cosanostraa/Dev/Brief5/node_modules/css-what/lib/es/parse.d.ts.map1680533424031510195 0
+60/home/cosanostraa/Dev/Brief5/inc/assets/images/fire_line.svg1680868486061541677 0
 72/home/cosanostraa/Dev/Brief5/node_modules/css-what/lib/es/stringify.d.ts1680533424167510006 0
 66/home/cosanostraa/Dev/Brief5/node_modules/css-what/lib/es/index.js1680533423647510727 0
 73/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/regions/RS.js1680533425335508386 0
@@ -3450,6 +3449,7 @@
 81/home/cosanostraa/Dev/Brief5/node_modules/@parcel/packager-raw/lib/RawPackager.js1680533423399511070 0
 73/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/regions/BN.js1680533424459509601 0
 75/home/cosanostraa/Dev/Brief5/node_modules/css-tree/lib/syntax/node/Block.js1680533423955510300 0
+56/home/cosanostraa/Dev/Brief5/dist/fire_line.2961bf93.svg1680873171970528282 0
 56/home/cosanostraa/Dev/Brief5/node_modules/node-addon-api1680533424215509940 1
 77/home/cosanostraa/Dev/Brief5/node_modules/css-tree/lib/syntax/atrule/media.js1680533424763509179 0
 67/home/cosanostraa/Dev/Brief5/node_modules/css-tree/lib/syntax/scope1680533424891509001 1
@@ -3681,7 +3681,7 @@
 73/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/regions/GY.js1680533425167508618 0
 80/home/cosanostraa/Dev/Brief5/node_modules/@parcel/core/lib/public/BundleGroup.js1680533424467509590 0
 73/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/regions/CH.js1680533424563509457 0
-46/home/cosanostraa/Dev/Brief5/inc/assets/images1680693360685155852 1
+46/home/cosanostraa/Dev/Brief5/inc/assets/images1680868585605265422 1
 88/home/cosanostraa/Dev/Brief5/node_modules/@parcel/node-resolver-core/lib/NodeResolver.js1680533424811509113 0
 67/home/cosanostraa/Dev/Brief5/node_modules/chokidar/lib/constants.js1680533423391511081 0
 73/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/regions/KY.js1680533425227508535 0
@@ -3742,8 +3742,8 @@
 69/home/cosanostraa/Dev/Brief5/node_modules/css-tree/lib/lexer/trace.js1680533424883509013 0
 68/home/cosanostraa/Dev/Brief5/node_modules/node-gyp-build/optional.js1680533423543510871 0
 73/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/regions/SK.js1680533425355508357 0
-55/home/cosanostraa/Dev/Brief5/dist/index.86ab5bdd.js.map1680704215057174490 0
-33/home/cosanostraa/Dev/Brief5/dist1680704215065174465 1
+55/home/cosanostraa/Dev/Brief5/dist/index.86ab5bdd.js.map1680873171934528375 0
+33/home/cosanostraa/Dev/Brief5/dist1680873171970528282 1
 69/home/cosanostraa/Dev/Brief5/node_modules/domelementtype/package.json1680533423687510672 0
 61/home/cosanostraa/Dev/Brief5/node_modules/srcset/package.json1680533423363511120 0
 73/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/regions/MZ.js1680533425267508480 0
@@ -4042,7 +4042,7 @@
 82/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/ogg-vorbis.js1680533425279508463 0
 63/home/cosanostraa/Dev/Brief5/node_modules/resolve-from/index.js1680533423303511203 0
 87/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/iframe-seamless.js1680533425183508597 0
-51/home/cosanostraa/Dev/Brief5/dist/index.86ab5bdd.js1680704214989174697 0
+51/home/cosanostraa/Dev/Brief5/dist/index.86ab5bdd.js1680873171918528417 0
 65/home/cosanostraa/Dev/Brief5/node_modules/svgo/plugins/plugins.js1680533424339509768 0
 71/home/cosanostraa/Dev/Brief5/node_modules/cosmiconfig/dist/types.js.map1680533424163510012 0
 84/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/css-rrggbbaa.js1680533424975508886 0
@@ -4387,7 +4387,6 @@
 82/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/pdf-viewer.js1680533425303508429 0
 80/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/temporal.js1680533425379508325 0
 70/home/cosanostraa/Dev/Brief5/node_modules/svgo/plugins/_collections.js1680533423683510677 0
-56/home/cosanostraa/Dev/Brief5/inc/assets/images/coeur.png1679922840417659495 0
 85/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/input-pattern.js1680533425203508569 0
 104/home/cosanostraa/Dev/Brief5/node_modules/@parcel/core/test/fixtures/custom-targets-distdir/package.json1680533425071508752 0
 78/home/cosanostraa/Dev/Brief5/node_modules/caniuse-lite/data/features/webusb.js1680533425431508252 0

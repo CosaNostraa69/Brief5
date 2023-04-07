@@ -4,18 +4,14 @@ import kenny from "../assets/images/kenny-removebg-preview.png";
 import kennyDead from "../assets/images/kennydead.png";
 import cartmanDead from "../assets/images/cartmandead.png";
 import ButtersSad from "../assets/images/buttersDead.png";
-// import son from "../assets/sons/South-Park.mp3"
+import Logo1 from "../assets/images/drink_line.svg";
+import Logo2 from "../assets/images/fire_line.svg";
+import Logo3 from "../assets/images/middle_finger_line.svg";
 
 const choixPerso: HTMLElement | null = document.getElementById("hidden_class1");
 const Jeu: HTMLElement | null = document.getElementById("display_none");
 const inputUserName = document.getElementById("name_input") as HTMLInputElement;
 
-const body = document.getElementsByTagName("body")[0];
-const audioe = document.createElement("audio") as HTMLAudioElement;
-audioe.setAttribute("autoplay", "autoplay");
-audioe.id = "myAudio";
-audioe.src = son;
-audioe.autoplay = true;
 
 let perso = {
   first_button: `${cartman}`,
@@ -28,16 +24,31 @@ let persoDead = {
   third_button: `${kennyDead}`,
 };
 
+let persoButton = {
+  first_button: `${Logo3}`,
+  second_button: `${Logo1}`,
+  third_button: `${Logo2}`,
+};
+
 let bouton = "";
 
 function choisirPersonnage(button) {
   if (Object.keys(perso).includes(button)) {
     bouton = button;
     let perso_image = perso[button];
+    let perso_Button = persoButton[button];
+    console.log(perso_Button);
+    
+
     const image: HTMLImageElement = document.createElement("img");
     image.src = `${perso_image}`;
 
+    const buttonLogo: HTMLImageElement = document.createElement("img");
+    buttonLogo.src = `${perso_Button}`;
+
+
     document.querySelector(".left_column")?.appendChild(image);
+    document.querySelector("#water_button")?.appendChild(buttonLogo);
   }
 }
 
@@ -214,7 +225,6 @@ function decreaseBars() {
     thirstPoints -= 2;
   }
 
-  // If the character image has changed, log a message to the console
 
   if (characterImage && characterImage.src !== characterSrc) {
     console.log("Character image changed!");
